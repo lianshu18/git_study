@@ -1,0 +1,7 @@
+#include <stdio.h>
+int main()
+{
+    printf("i'm busy this week,so i hand on so late\n");
+    printf("Looking forword to your reply");
+    return 0;
+}
